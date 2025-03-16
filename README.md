@@ -9,7 +9,7 @@ To get started with creating and minting SPL tokens, follow these steps:
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/BankkRoll/spl-token-creator.git
+   git clone https://github.com/mohnate/spl-token-creator.git
    ```
 
 2. Navigate to the project directory:
